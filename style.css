@@ -27,7 +27,7 @@ body {
 }
 
 header {
-    display: inline-block;
+    display: block;
     align-items: center;
     background-color: var(--primary-color);
     color: white;
