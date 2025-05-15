@@ -27,6 +27,8 @@ body {
 }
 
 header {
+    display: flex;
+    align-items: center;
     background-color: var(--primary-color);
     color: white;
 }
