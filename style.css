@@ -32,7 +32,7 @@ header {
 }
 
 .layout {
-    display: flex;
+    display: inline-block;
     align-items: center;
 }
 
