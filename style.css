@@ -28,7 +28,6 @@ body {
 
 header {
     display: flex;
-    flex-wrap: wrap;
     align-items: center;
     background-color: var(--primary-color);
     color: white;
