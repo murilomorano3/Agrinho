@@ -31,6 +31,11 @@ header {
     color: white;
 }
 
+.layout {
+    display: flex;
+    align-items: center;
+}
+
 .link-style {
     display: flex;
     align-items: center;
