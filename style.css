@@ -33,6 +33,10 @@ header {
     color: white;
 }
 
+.link-style {
+    text-decoration: none;
+}
+
 h3 {
     margin-top: 25px;
 }
