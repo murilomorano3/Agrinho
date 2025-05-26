@@ -27,10 +27,8 @@ body {
 }
 
 header {
-    display: flex;
     background-color: var(--primary-color);
     color: white;
-    align-items: center;
 }
 
 .link-style {
@@ -40,10 +38,6 @@ header {
     color: white;
 }
 
-.container {
-    display: flex;
-    align-items: center;
-}
 
 h3 {
     margin-top: 25px;
@@ -54,9 +48,12 @@ p {
 }
 
 img {
+    max-width: 90%;
+}
+
+h3, p, img, nav {
     display: flex;
     align-items: center;
-    max-width: 90%;
 }
 
 @media (max-width: 768px) {
