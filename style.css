@@ -48,6 +48,7 @@ p {
 
 img {
     max-width: 90%;
+    align-items: center;
 }
 
 @media (max-width: 768px) {
