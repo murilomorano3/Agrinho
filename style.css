@@ -29,6 +29,7 @@ body {
 header {
     background-color: var(--primary-color);
     color: white;
+    align-items: center;
 }
 
 .link-style {
