@@ -27,6 +27,8 @@ body {
 }
 
 header {
+    display: flex;
+    justify-content: center;
     background-color: var(--primary-color);
     color: white;
 }
@@ -49,11 +51,6 @@ p {
 
 img {
     max-width: 90%;
-}
-
-h3, p, img, nav {
-    display: flex;
-    align-items: center;
 }
 
 @media (max-width: 768px) {
